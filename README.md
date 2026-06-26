@@ -1,40 +1,63 @@
-## Vitor Figueredo
+<h1 align="center">Olá, eu sou o Vitor 👋</h1>
 
-Desenvolvedor full-stack. React Native no setor público pela manhã, web e produtos próprios o resto do dia.
+<p align="center">
+  Desenvolvedor full-stack — <b>React Native</b> no setor público, sites e landing pages de alta performance com <b>Next.js + WordPress headless</b>.
+</p>
 
+---
+
+- 🚀 Crio **sites e landing pages** rápidos e que convertem (Next.js + WordPress headless)
 - 📱 Desenvolvedor **React Native** no setor público
-- 🌐 Crio sites e landing pages de alta performance com **Next.js + WordPress headless**
-- 🖥️ Construo ferramentas desktop com **Rust + Tauri**
-- 🎓 Engenharia da Computação @ UFS · Sergipe, Brasil
+- 🖥️ Construo ferramentas **desktop com Rust + Tauri**
+- 🎓 Engenharia da Computação @ UFS · 📍 Sergipe, Brasil
+- 💬 Contato: **contato@antoniovitordev.com.br**
 
-### Stack
+<br>
 
-**Mobile** React Native · Expo · TypeScript
-**Web** Next.js · React · Node.js · Tailwind
-**CMS / Headless** WordPress · WooCommerce · plugins customizados
-**Desktop** Rust · Tauri
-**Infra** VPS Linux · DirectAdmin · LiteSpeed · Supabase · GitHub Actions
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=antoniovitor10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniovitor10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
-### Projetos em destaque
+<br>
 
-- **[runrun-companion](https://github.com/antoniovitor10/runrun-companion)** — app desktop (Rust + Tauri) que acompanha tarefas do Runrun.it com notificações nativas.
-- **[painel-multi-agents](https://github.com/antoniovitor10/painel-multi-agents)** — cockpit local (Node + WebSocket) pra orquestrar agentes de codificação em vários projetos ao mesmo tempo.
-- **[starter-headless-kit](https://github.com/antoniovitor10/starter-headless-kit)** — plugin WordPress que vira base headless pra sites Next.js, consumido como submódulo git.
-- **[bot-financas](https://github.com/antoniovitor10/bot-financas)** — bot de Telegram que interpreta lançamentos e grava transações no Organizze com confirmação.
+## 🛠️ Skills
 
-### 🌐 Sites em produção
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,wordpress,php,rust,tauri,supabase,git&perline=12" />
+</div>
+
+<br>
+
+## 📌 Projetos em destaque
+
+- **[runrun-companion](https://github.com/antoniovitor10/runrun-companion)** — app desktop (Rust + Tauri) com notificações nativas pro Runrun.it.
+- **[painel-multi-agents](https://github.com/antoniovitor10/painel-multi-agents)** — cockpit local (Node + WebSocket) pra orquestrar agentes de codificação em vários projetos.
+- **[starter-headless-kit](https://github.com/antoniovitor10/starter-headless-kit)** — plugin WordPress que vira base headless pra sites Next.js, usado como submódulo git.
+- **[bot-financas](https://github.com/antoniovitor10/bot-financas)** — bot de Telegram que grava lançamentos no Organizze com confirmação.
+
+## 🌐 Sites em produção
 
 Sites que desenvolvi e estão no ar (código privado por serem projetos de cliente):
 
-- **[Nordevs](https://nordevs.com.br)** — Next.js
-- **[Restaure](https://clinicarestaure.com)** — Next.js + WordPress headless
-- **[Dr. Ramires Tosatti](https://ramirestosatti.com.br)** — site institucional médico · Next.js
-- **[Dr. Matheus Martins](https://drmateusmartins.com)** — site institucional médico · Next.js + WP headless
-- **[Amoris Care](https://amoriscare.com.br)** — Next.js + WordPress headless
-- **[Geovana Leal](https://geovanalealpsi.com)** — site institucional · Next.js
-- **[Koda](https://sushikoda.com.br)** — Next.js
-- **[Nikson Advogados](https://niksonadvassociados.com)** — site institucional · Next.js
+| Site | Stack |
+|---|---|
+| [Nordevs](https://nordevs.com.br) | Next.js |
+| [Restaure](https://clinicarestaure.com) | Next.js + WordPress headless |
+| [Dr. Ramires Tosatti](https://ramirestosatti.com.br) | Next.js |
+| [Dr. Matheus Martins](https://drmateusmartins.com) | Next.js + WordPress headless |
+| [Amoris Care](https://amoriscare.com.br) | Next.js + WordPress headless |
+| [Geovana Leal](https://geovanalealpsi.com) | Next.js |
+| [Koda](https://sushikoda.com.br) | Next.js |
+| [Nikson Advogados](https://niksonadvassociados.com) | Next.js |
 
-### Contato
+## 📫 Onde me encontrar
 
-[LinkedIn](https://www.linkedin.com/in/antonio-vitor-2a8a292b3/) · contato@antoniovitordev.com.br
+<div align="center">
+  <a href="https://www.linkedin.com/in/antonio-vitor-2a8a292b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contato@antoniovitordev.com.br">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
