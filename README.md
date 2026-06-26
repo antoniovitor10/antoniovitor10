@@ -8,7 +8,6 @@
 
 - 🚀 Crio **sites e landing pages** rápidos e que convertem (Next.js + WordPress headless)
 - 📱 Desenvolvedor **React Native** no setor público
-- 🖥️ Construo ferramentas **desktop com Rust + Tauri**
 - 🎓 Engenharia da Computação @ UFS · 📍 Sergipe, Brasil
 - 💬 Contato: **contato@antoniovitordev.com.br**
 
