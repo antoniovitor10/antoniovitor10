@@ -4,6 +4,8 @@
 
 Não tenho um portfólio de projetos de tutorial. Tenho clientes com site no ar.
 
+**Agora:** evoluindo meu starter headless e entregando sites institucionais em Next.js + WordPress.
+
 ---
 
 ### No ar agora
